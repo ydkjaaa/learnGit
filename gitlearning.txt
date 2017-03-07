@@ -2,4 +2,4 @@ the git is great
 we are family,so good!
 Git is distributed version control system
 Git has a mutable index called stage
-Git tracks changes
+Git tracks changes of files
